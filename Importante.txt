@@ -1,0 +1,8 @@
+contextpath = loginbasico
+ValidacionServlet = valida
+
+1-. Antes de iniciar proyecto, crear base de datos con nombre "loginjsp".
+
+2-.Pegar Script de bd dentro de la nueva BD.
+
+3-. Crear usuarios con contraseña, y probar en aplicación JEE.
